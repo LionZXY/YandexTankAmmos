@@ -1,0 +1,7 @@
+108 categories
+GET /categories HTTP/1.1
+Host: infrared.dev.flipp.dev
+User-Agent: tank
+Accept: */*
+Connection: Close
+
